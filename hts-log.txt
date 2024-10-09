@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 09 Oct 2024 19:09:57 at https://salisglam.odoo.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://salisglam.odoo.com/ -O1 "C:\My Web Sites\Salis Glam" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:09:58	Warning: 	See Other for https://salisglam.odoo.com/robots.txt
+19:09:58	Warning: 	File has moved from https://salisglam.odoo.com/robots.txt to https://salisglam.odoo.com/_odoo/upgrade/salisglam
+19:09:58	Warning: 	See Other for https://salisglam.odoo.com/
+19:09:58	Warning: 	File has moved from https://salisglam.odoo.com/ to https://salisglam.odoo.com/_odoo/upgrade/salisglam
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 5 links scanned, 3 files written (5624 bytes overall) [5923 bytes received at 2961 bytes/sec], 2828 bytes transferred using HTTP compression in 2 files, ratio 41%, 2.5 requests per connection
+(No errors, 4 warnings, 0 messages)

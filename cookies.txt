@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+salisglam.odoo.com	TRUE	/	FALSE	1999999999	session_id	SH4_hgJ-lTtaJKJhSBAJw3Tn0oIvvJRMsS5tBYT-NXhvfJcpU2yZK5YdC85ItApeXnx_CrSISzMIfzZburcm
+salisglam.odoo.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
